@@ -1,0 +1,6 @@
+#Laptop
+#Sat May 25 02:07:34 IST 2024
+Brand=HP
+Model=Omen
+OS=Windows 11
+Processor=Amd Ryzen 7
